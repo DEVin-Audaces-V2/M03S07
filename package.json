@@ -1,0 +1,19 @@
+{
+  "name": "m03s07",
+  "version": "1.0.0",
+  "description": "Codigo desenvolvido em aula",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DEVin-Audaces-V2/M03S07.git"
+  },
+  "author": "tiagoamp",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DEVin-Audaces-V2/M03S07/issues"
+  },
+  "homepage": "https://github.com/DEVin-Audaces-V2/M03S07#readme"
+}
