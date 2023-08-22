@@ -54,4 +54,19 @@ class Pessoa {
 }
 
 
+if (condicaoX) {
+    // mais um pouco de codigo
+    if () {
+        fdgdsf 
+        calcular()
+    } // fecha o for
+
+}
+
+private calcular() {
+    for () // ...
+}
+ 
+
+
 
