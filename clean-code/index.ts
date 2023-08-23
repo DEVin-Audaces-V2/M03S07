@@ -31,41 +31,41 @@ try {
 }
 
 
-const isConvidadoPermitido = idade > 18 && convite == 'valido' && nomeNaLista === true;
-if (isConvidadoPermitido) {
-    // pode entrar na festa
-}
+// const isConvidadoPermitido = idade > 18 && convite == 'valido' && nomeNaLista === true;
+// if (isConvidadoPermitido) {
+//     // pode entrar na festa
+// }
 
 
-if (pessoa.temRepresentanteLegal()) {    
-     // usar dados do representante legal
-}
+// if (pessoa.temRepresentanteLegal()) {    
+//      // usar dados do representante legal
+// }
 
 
 
-class Pessoa {
+// class Pessoa {
 
-    repLegal: boolean ;
+//     repLegal: boolean ;
 
-    temRepresentanteLegal() {
-        return this.getCpfReLegal() !== null;
-    }
+//     temRepresentanteLegal() {
+//         return this.getCpfReLegal() !== null;
+//     }
 
-}
+// }
 
 
-if (condicaoX) {
-    // mais um pouco de codigo
-    if () {
-        fdgdsf 
-        calcular()
-    } // fecha o for
+// if (condicaoX) {
+//     // mais um pouco de codigo
+//     if () {
+//         fdgdsf 
+//         calcular()
+//     } // fecha o for
 
-}
+// }
 
-private calcular() {
-    for () // ...
-}
+// private calcular() {
+//     for () // ...
+// }
  
 
 
