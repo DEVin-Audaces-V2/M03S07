@@ -4,7 +4,6 @@ export default class Singleton {
 
     private constructor() { }
 
-
     static getInstance() : Singleton {
         if (!this.instance) {
             this.instance = new Singleton();
